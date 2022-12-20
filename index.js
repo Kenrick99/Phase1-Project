@@ -1,4 +1,4 @@
-/*  Show Navbar */
+/*   To Show Navbar */
 const navbar = document.querySelector(".navbar");
 const hamburger = document.querySelector(".hamburger");
 
@@ -14,6 +14,7 @@ const scrollLink = document.querySelectorAll(".navbar a:not(:last-child)");
 /*  Smooth Scroll  */
 Array.from(scrollLink).map((link) => {
   link.addEventListener("click", (e) => {
+
     // Prevent Default
     e.preventDefault();
 
@@ -65,10 +66,10 @@ function check(form)/*function to check userid & password*/
  /*the following code checkes whether the entered userid and password are matching*/
  if(form.userid.value == "myuserid" && form.pswrd.value == "mypswrd")
   {
-    window.open('target.html')/*opens the target page while Id & password matches*/
+    window.open('target.html') /*opens the target page while Id & password matches*/
   }
  else
  {
-   alert("Error Password or Username")/*displays error message*/
+   alert("Error Password or Username") /*displays error message*/
   }
 }
