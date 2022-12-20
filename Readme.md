@@ -21,8 +21,9 @@ These instructions will get you a copy of the project up and running on a local 
 There are no unresolved issues in regards to this code that I know of.
 
 ## Prerequisites
-To be able to run this web application, you will need to have a web browser, preferably Google Chrome .
+To be able to run this web application, you will need to have a web browser, preferably Google Chrome ,node v18.12.1 and above ,npm 6.14.17 and above ,Then install the various packages from package.json npm install.
 Just open the url link deployed on GitHub and run it.
+
 
 ## Technologies Used
 I worked on this code on visual studio code. I used javascript as my primary language. I worked on  the code using vscode and Git applications.
