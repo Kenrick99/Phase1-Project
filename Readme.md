@@ -31,7 +31,7 @@ I worked on this code on visual studio code. I used javascript as my primary lan
 ## Support and contact details
 If there are any issues on how the code runs, concerns, questions or ideas, kindly reach out to me on my email address; 
 kenrickdony@gmail.com.
-Attached is a github link for the said project "https://github.com/Kenrick99/Phase1-Project"
+Attached is a github link for the said project " https://kenrick99.github.io/Phase1-Project/"
 
 ## Authors
 
